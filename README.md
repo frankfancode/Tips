@@ -1,2 +1,2 @@
 # tips
-![tips issue](https://github.com/frankfancode/tips/issues)
+[tips issue](https://github.com/frankfancode/tips/issues)
